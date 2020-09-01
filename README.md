@@ -1,7 +1,17 @@
-# 🌱 Welcome to my github page!🌱 
-Hello, my name is leedonghyun android and deeplearning developer
-I m currently working as a [fingram](https://fingram.com) software engineer
-<br>
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+
+</div>
+
+### Android and Machine Learning Engineer
 
 
-🤔 The languages I usually use are ![Java](https://img.shields.io/badge/-Java-fc7b03?style=for-the-badge&logo=java&logoColor=fff) and so on.
+
+<div align=center>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://gksmfahd78.github.io/)  
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dlehdgus0413)](https://www.facebook.com/dlehdgus0413) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/data.scientist/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dlehdgus0413@gmail.com)
+</div>
