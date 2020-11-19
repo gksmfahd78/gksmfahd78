@@ -5,7 +5,9 @@
 </div>
 
 ### Android and Machine Learning Engineer
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gksmfahd78&layout=compact&theme=graywhite)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gksmfahd78&layout=compact&theme=graywhite)
+<br>
 
 
 <div align=center>
