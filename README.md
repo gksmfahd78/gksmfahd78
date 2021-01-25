@@ -4,7 +4,7 @@
 
 </div>
 
-### Android and Machine Learning Engineer
+### Android and deep Learning Engineer
 <div align=center>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gksmfahd78&layout=compact&theme=graywhite)
